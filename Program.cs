@@ -9,6 +9,7 @@ namespace lesson2
         {
             Console.WriteLine("результат задания 5: " + Test5());
             Console.WriteLine("результат задания 7: " + Test7());
+
         }
 
 
